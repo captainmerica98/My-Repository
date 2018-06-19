@@ -23,7 +23,7 @@ public class Main
         Thread.sleep(300);
         System.out.println(" \\");
         Thread.sleep(300);
-        System.out.println("  \\");
+        System.out.println("  \\");                //this is a comment
         Thread.sleep(100);
         System.out.print("W");
         Thread.sleep(100);
